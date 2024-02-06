@@ -1,3 +1,11 @@
+/*
+Q1. WAP to make Railway Reservation System.
+Requirements:
+(A) User Input Train Number , Train Name , Source , Destination , Train Time.
+(B) Display Record By Search Train Number.
+(C) Minimum 3 Input Train Record.
+
+*/
 #include<iostream>
 #include<string. h>
 using namespace std;
