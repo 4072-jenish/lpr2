@@ -1,3 +1,11 @@
+
+/*
+Q2. WAP to make Supermarket Billing System.
+Requirements:
+(A) Verify User Id And Password
+(B) User Input Item Number , Item Name , Quantity , Price , Discount.
+*/
+
 #include<iostream>
 using namespace std;
 
